@@ -1,3 +1,10 @@
 .zamo {
     background-color: blue;
+    justify-content: center;
+}
+.side1 {
+    flex-grow: 1;
+}
+.side2 {
+    flex-grow: 2;
 }
