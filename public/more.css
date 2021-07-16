@@ -2,4 +2,5 @@
 .side2 { flex-grow: 1; }
 .side1:hover .drop-down-menu {
     display: block;
+    transition: all 1s ease-in-out;
 }
