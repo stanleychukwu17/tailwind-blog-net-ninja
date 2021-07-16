@@ -1,2 +1,5 @@
 .side1 { flex-grow: 2; }
 .side2 { flex-grow: 1; }
+.side1:hover {
+    background-color: yellow;
+}
