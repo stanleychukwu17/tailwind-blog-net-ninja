@@ -32243,6 +32243,7 @@ video {
 @media (min-width: 768px) {
   .barman {
     border-right-width: 4px;
+    border-left-width: 0px;
   }
 }
 
