@@ -18,4 +18,17 @@ before now, never worked with any of these other css frameworks as i'm not a fan
 - At first you have to spend alot of time in searching for alot of classes in their documentation
 - Your html code might become very complicated and verbose as codebase grows
 
+-
+
+# Below is what the blog looks like
 ![alt text](./images/home_page.JPG)
+
+
+-
+
+If you're cloning my repo for whatever reasons, run the following commands after your download
+1. npm install
+2. npm run build-css
+
+visit the tailwindcss website to learn more about all the classes they offer
+[Tailwindcss website](https://tailwindcss.com/docs/)
