@@ -5,3 +5,5 @@ before now, never worked with any of these other css frameworks as i'm not a fan
 **definitely a big yes!!**
 
 ## Pros of tailwindcss
+- Easy to learn! very very easy!
+- Save you a ton of time when design an html page
