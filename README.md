@@ -1,1 +1,2 @@
 # Receipes blog styled completely with tailwindcss
+before now, never worked with any of these other css frameworks, so i played around with tailwindcss to see how flexible and advanced the framework is
