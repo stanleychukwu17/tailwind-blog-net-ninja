@@ -1,0 +1,1 @@
+# Receipes blog styled completely with tailwindcss
