@@ -11,6 +11,6 @@
 
 @screen md {
     .barman {
-      @apply border-r-4;
+      @apply border-r-4 block;
     }
   }
