@@ -30,5 +30,6 @@ If you're cloning my repo for whatever reasons, run the following commands after
 1. npm install
 2. npm run build-css
 
-visit the tailwindcss website to learn more about all the classes they offer
+visit the tailwindcss website to learn more about all the classes they offer!!
+
 [Tailwindcss website](https://tailwindcss.com/docs/)
