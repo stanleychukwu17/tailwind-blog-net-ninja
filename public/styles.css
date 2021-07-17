@@ -32220,6 +32220,32 @@ video {
   content: none;
 }
 
+.barman {
+  border-left-width: 4px;
+  border-color: transparent;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+  transition-duration: 200ms;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1)
+}
+
+.barman:hover {
+  --tw-border-opacity: 1;
+  border-color: rgba(16, 185, 129, var(--tw-border-opacity));
+  font-weight: 700
+}
+
+@media (min-width: 768px) {
+  .barman {
+    border-right-width: 4px;
+  }
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;

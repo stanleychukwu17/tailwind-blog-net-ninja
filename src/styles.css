@@ -2,8 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
-.barMan {
-    transition-all duration-700 ease-in-out py-1 px-4 border-l-4 border-transparent
-    md:border-r-4
-    hover:font-bold hover:border-red-500
+.barman {
+   @apply transition-all duration-200 ease-in-out py-1 px-4 border-l-4 border-transparent
 }
+.barman:hover {
+    @apply font-bold border-green-500
+}
+
+@screen md {
+    .barman {
+      @apply border-r-4;
+    }
+  }
