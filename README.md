@@ -7,3 +7,4 @@ before now, never worked with any of these other css frameworks as i'm not a fan
 ## Pros of tailwindcss
 - Easy to learn! very very easy!
 - Save you a ton of time when design an html page
+- the tailwindcss intelisense vscode extension is very good (but i had to deactivate my tabnine from working in my html and css files for me to really utilize the extension)
