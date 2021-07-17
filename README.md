@@ -8,3 +8,8 @@ before now, never worked with any of these other css frameworks as i'm not a fan
 - Easy to learn! very very easy!
 - Save you a ton of time when design an html page
 - the tailwindcss intelisense vscode extension is very good (but i had to deactivate my tabnine from working in my html and css files for me to really utilize the extension)
+
+## Cons of tailwindcss
+- Combinator selectors from vanilla css are not available since tailwind is mainly class based styling (i hope they find a way around this in the future)
+- Each time you try to add your own class to the tailwindcss list of classes, you have to run the tailwindcss compiler again! this can be time consuming
+- At first you have to spend alot of time i
