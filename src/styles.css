@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.barMan {
+    transition-all duration-700 ease-in-out py-1 px-4 border-l-4 md:border-r-4 border-transparent
+}
